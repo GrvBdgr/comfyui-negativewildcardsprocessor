@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-negativewildcardsprocessor"
+description = "Node to process negative wildcard tokens (<! !>) and move them from the positive prompt to the negative."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/GrvBdgr/comfyui-negativewildcardsprocessor"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-negativewildcardsprocessor"
+Icon = ""
